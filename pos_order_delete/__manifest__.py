@@ -11,6 +11,9 @@
     'depends': [
         'point_of_sale',
     ],
+    'images': [
+        'static/description/banner.png',
+    ],
     'data': [
         'security/pos_order_delete_security.xml',
     ],
