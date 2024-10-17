@@ -17,8 +17,6 @@
     'data': [
         'security/pos_order_delete_security.xml',
     ],
-    'price': 15,
-    'currency': 'EUR',
     'license': 'AGPL-3',
     'installable': True,
     'auto_install': False,
