@@ -8,6 +8,7 @@
     'category': 'Point of sale',
     'author': 'Visionee',
     'version': '17.0.1.0',
+    'website': 'https://visionee.net',
     'depends': [
         'point_of_sale',
     ],
